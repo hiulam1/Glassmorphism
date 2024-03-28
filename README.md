@@ -18,3 +18,5 @@ To get started with this project, follow these steps:
 - Run `expo start` to start the project. This will open up a development server, and you can then view the project in the Expo Go app on your mobile device or in a simulator/emulator on your computer.
 
 Enjoy the sleek look of glassmorphism in your React Native applications!
+
+![Screenshot of Glassmorphism Card](/assets/screenshot.png)
