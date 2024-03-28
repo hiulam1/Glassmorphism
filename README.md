@@ -19,4 +19,4 @@ To get started with this project, follow these steps:
 
 Enjoy the sleek look of glassmorphism in your React Native applications!
 
-![Screenshot of Glassmorphism Card](/assets/screenshot.png)
+<img src="/assets/screenshot.png" alt="Screenshot of Glassmorphism Card" width="180"/>
